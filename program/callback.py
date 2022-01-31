@@ -1,4 +1,4 @@
-# Copyright (C) 2021 By Pikachu01001
+# Copyright (C) 2021 By SUKHPAL443
 
 from pyrogram import Client, filters
 from pyrogram.types import CallbackQuery, InlineKeyboardButton, InlineKeyboardMarkup
